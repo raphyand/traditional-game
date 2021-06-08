@@ -4,7 +4,7 @@ General Overview:
 You are are an army, under siege.  Your castle walls have been crushed, and you must survive the impending waves of enemies from completely wiping out your armies.  
 Fear not, however!  Your scouts have reported reinforcements coming.  All you need to do is hold the line!
 
-###Overview:
+######Overview:
 * You will have a "breached castle" to deploy your "troops".  Your troops are represented by four dice.  
 * Your goal is to survive a certain amount of turns, depending on the mode you choose.
 * In your setup, three of the dice will be fielded(placed) on the corresponding top, middle, and bottom lanes.  
@@ -16,7 +16,7 @@ Fear not, however!  Your scouts have reported reinforcements coming.  All you ne
 * If you have no more of a backline, you lose.
 * Once the turn is over, you decrease the countdown die at the very top, by 1.  If it becomes zero, you win and survive!
 
-###Setup:
+######Setup:
 1. Draw your map.
 	* For fun, draw an entire scene of a castle!  But you can just draw the diagram.
 2. Choose a mode:
