@@ -1,10 +1,11 @@
 # Hold the Line
 
-General Synopsis:
+**General Synopsis**:
+
 You are are an army, under siege.  Your castle walls have been crushed, and you must survive the impending waves of enemies from completely wiping out your armies.  
 Fear not, however!  Your scouts have reported reinforcements coming.  All you need to do is hold the line!
 
-** Gameplay Overview**:
+**Gameplay Overview**:
 * You will have a "breached castle" to deploy your "troops".  Your troops are represented by four dice.  
 * Your goal is to survive a certain amount of turns, depending on the mode you choose.
 * In your setup, three of the dice will be fielded(placed) on the corresponding top, middle, and bottom lanes.  
@@ -16,6 +17,8 @@ Fear not, however!  Your scouts have reported reinforcements coming.  All you ne
 * If you have no more of a backline, you lose.
 * Once the turn is over, you decrease the countdown die at the very top, by 1.  If you have at least a value of one for your backline die, then increase it by two. 
 * If your count-down die becomes zero, you win and survive!
+
+
 
 **Setup**:
 1. Draw your map.
@@ -34,7 +37,7 @@ Fear not, however!  Your scouts have reported reinforcements coming.  All you ne
 ![Example Below](images/HTL_Setup_2.jpg)
 
 
-###Turn Order:
+### Turn Order:
 1. Reinforce
 	* Decide whether you want to reinforce your front line with your backline.
 	* Subtract your back-line by the amount you wish to reinforce your front line.  
