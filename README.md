@@ -18,7 +18,7 @@ Setup:
 3. Place each quadrant with a 6-facing die on top. 
 
 ## Blank Map
-(images/HTL_Setup_1.jpg)
+![Example Below](images/HTL_Setup_1.jpg)
 
 ## Map filled with dice
 ![Example Below](images/HTL_Setup_2.jpg)
