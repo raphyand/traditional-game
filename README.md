@@ -4,24 +4,36 @@ General Overview:
 You are are an army, under siege.  Your castle walls have been crushed, and you must survive the impending waves of enemies from completely wiping out your armies.  
 Fear not, however!  Your scouts have reported reinforcements coming.  All you need to do is hold the line!
 
+
+
+
+
 Setup:
 1. Draw your map.
-2. Roll one die and put that on top of your "map".  That is the amount of turns you must last.
+2. Choose a mode:
+	* Easy Mode: Set a die at the very top of your map to 2.
+	* Normal Mode: Set a die at the very top of your map to 3.
+	* Hard Mode: Set a die at the very top of your map to 4.
+	* M'Lord, the Scouts have returned! : Roll a die to determine the number of turns to survive.
 3. Place each quadrant with a 6-facing die on top. 
 
 Turn Order:
-1. Reinforcement 
+1. Reinforce
 	* Decide whether you want to reinforce your front line with your backline.
 	* Subtract your back-line by the amount you wish to reinforce your front line.  
 	* Add to your front line (either top, middle, bottom, or a mix) the amount you subtracted.
 	* If your backline is 0, then remove the die completely from the back.
-2. Scout Enemy Forces
-	* For each lane, top to bottom, roll one die.  
+2. Scout
+	* For each lane, top to bottom, roll one die. 
 	* Then place the die (or number) in that corresponding field.
+	* Swap places of your current die fields if desired.
 3. Battle 
+	* In the top and bottom lanes, halve the die value, rounding up.
 	* Subtract the enemy numbers from your soldier's numbers.
+	* If any subtraction results negatively, subtract that value from the backline.
+		* If the backline die is zero or negative, you lose.
 4. Results
-	*
+	* If you have survived the current wave, decrease the top die by one.
 
 
 Use [Markdown](https://en.wikipedia.org/wiki/Markdown) to format your document. There is a [GitHub specific guide](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) that you can download to your computer.
