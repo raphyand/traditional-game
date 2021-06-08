@@ -1,11 +1,11 @@
 # Hold the Line
 
-**General Synopsis**:
+### General Synopsis:
 
 You are are an army, under siege.  Your castle walls have been crushed, and you must survive the impending waves of enemies from completely wiping out your armies.  
 Fear not, however!  Your scouts have reported reinforcements coming.  All you need to do is hold the line!
 
-**Gameplay Overview**:
+### Gameplay Overview:
 
 * You will have a "breached castle" to deploy your "troops".  
 	* Your troops are represented by four dice.  
@@ -30,7 +30,7 @@ Fear not, however!  Your scouts have reported reinforcements coming.  All you ne
 
 
 
-**Setup**:
+### Setup:
 1. Draw your map.
 	* For fun, draw an entire scene of a castle!  But you can just draw the diagram.
 2. Choose a mode:
