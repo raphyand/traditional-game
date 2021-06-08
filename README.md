@@ -6,15 +6,25 @@ You are are an army, under siege.  Your castle walls have been crushed, and you 
 Fear not, however!  Your scouts have reported reinforcements coming.  All you need to do is hold the line!
 
 **Gameplay Overview**:
-* You will have a "breached castle" to deploy your "troops".  Your troops are represented by four dice.  
+
+* You will have a "breached castle" to deploy your "troops".  
+	* Your troops are represented by four dice.  
 * Your goal is to survive a certain amount of turns, depending on the mode you choose.
-* In your setup, three of the dice will be fielded(placed) on the corresponding top, middle, and bottom lanes.  
-* You will have one die in the back line, representing your "reserve forces." 
-* Enemies will come at you, represented by three dice, rolled one at a time, and placed rightward of your "troops."  The first, second, and third roll correspond to top, middle, bottom.
+
+* In your setup, three of the dice will be fielded(placed).
+	* The the fields to place are the top, middle, and bottom lanes.  
+	* You will have one die in the back line, representing your "reserve forces." 
+* Enemies will come at you, represented by three dice.
+	* Rolled one at a time
+	* Placed rightward of your "troops." 
+	* The first, second, and third roll correspond to top, middle, bottom.
 * The top and bottom lanes will halve the enemy's numbers/strength.  The middle is unaffected by any modifiers.
-* During your battle, you simply "fight" by subtracting each of your soldier's die values by the number of the enemy's die values, for each lane. 
-* If one lane's die value is too low for comfort, or completely gone, you can divert up to your current "backline" die value to replenish your front line.  Then decrease or remove the backline completely.
-* If you have no more of a backline, you lose.
+
+* During your battle you simply "fight" 
+	* Subtract each of your soldier's die values by the number of the enemy's die values, for each lane. 
+* If one lane's die value is too low for comfort, or completely gone, you can divert up to your current "backline" die value to replenish your front line.  
+	* Then decrease or remove the backline completely.
+	* If you have no more of a backline, you lose.
 * Once the turn is over, you decrease the countdown die at the very top, by 1.  If you have at least a value of one for your backline die, then increase it by two. 
 * If your count-down die becomes zero, you win and survive!
 
@@ -28,9 +38,14 @@ Fear not, however!  Your scouts have reported reinforcements coming.  All you ne
 	* Normal Mode: Set a die at the very top of your map to 3.
 	* Hard Mode: Set a die at the very top of your map to 4.
 	* M'Lord, the Scouts have returned! : Roll a die to determine the number of turns to survive.
-3. Place each quadrant with a 6-facing die on top. 
+3. Place the "mode die" at the very top of your "map."
+4. For each lane, place die with the 6 side facing up.
+5. For the back line, place one die with the 6 side facing up.
 
-## Diagram Map
+## Diagram Map 
+![Example Below](images/HTL_Diagram.jpg)
+
+## Diagram Map draw on paper
 ![Example Below](images/HTL_Setup_1.jpg)
 
 ## Map filled with dice
