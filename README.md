@@ -42,16 +42,6 @@ Fear not, however!  Your scouts have reported reinforcements coming.  All you ne
 4. For each lane, place die with the 6 side facing up.
 5. For the back line, place one die with the 6 side facing up.
 
-## Diagram Map 
-![Example Below](images/HTL_Diagram.jpg)
-
-## Diagram Map draw on paper
-![Example Below](images/HTL_Setup_1.jpg)
-
-## Map filled with dice
-![Example Below](images/HTL_Setup_2.jpg)
-
-
 ### Turn Order:
 1. Reinforce
 	* Decide whether you want to reinforce your front line with your backline.
@@ -71,6 +61,18 @@ Fear not, however!  Your scouts have reported reinforcements coming.  All you ne
 	* If you have survived the current wave, decrease the top die by one.
 	* Then, if you have one or more of your backline die, then increase it by one.
 	* If you have reached zero waves, then congratulations, you've won!
+
+
+## Diagram Map 
+![Example Below](images/HTL_Diagram.jpg)
+
+## Diagram Map draw on paper
+![Example Below](images/HTL_Setup_1.jpg)
+
+## Map filled with dice
+![Example Below](images/HTL_Setup_2.jpg)
+
+
 
 
 
