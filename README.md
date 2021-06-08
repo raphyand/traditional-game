@@ -16,6 +16,11 @@ Setup:
 	* Hard Mode: Set a die at the very top of your map to 4.
 	* M'Lord, the Scouts have returned! : Roll a die to determine the number of turns to survive.
 3. Place each quadrant with a 6-facing die on top. 
+
+## Blank Map
+(images/HTL_Setup_1.jpg)
+
+## Map filled with dice
 ![Example Below](images/HTL_Setup_2.jpg)
 
 
