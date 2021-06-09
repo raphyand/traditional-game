@@ -1,9 +1,20 @@
+# Student Info:
+Raphael S. Andaya
+CPSC 386-01 
+06/08/2021
+raphyand@csu.fullerton.edu
+
 # Hold the Line
+
+
 
 ### General Synopsis:
 
 You are are an army, under siege.  Your castle walls have been crushed, and you must survive the impending waves of enemies from completely wiping out your armies.  
 Fear not, however!  Your scouts have reported reinforcements coming.  All you need to do is hold the line!
+
+Hold the line is a singleplayer (player versus game rules) game, where you survive a number of waves until help arrives.  With luck of the dice rolls, and a little bit of number management, you will hopefully live to see another day!
+You will need at least 1 die, but it is recommended to use 8 dice.  *In lieu of dice that will be placed on your "map", you can write the numbers down and erase and replace as needed.*
 
 ### Gameplay Overview:
 
@@ -75,6 +86,7 @@ Fear not, however!  Your scouts have reported reinforcements coming.  All you ne
 ## Video Links
 1. Hold the Line - Setup (Apologies for quality of video!)
 	* [YouTube] (https://youtu.be/KCela5H4o_w)
-
+2. Hold the Line - Gameplay Demo (Again, apologies for the quality of the video!)
+	* [YouTube] ()
 
 
