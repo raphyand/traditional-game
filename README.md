@@ -72,7 +72,9 @@ Fear not, however!  Your scouts have reported reinforcements coming.  All you ne
 ## Map filled with dice
 ![Example Below](images/HTL_Setup_2.jpg)
 
-
+## Video Links
+1. Hold the Line - Setup (Apologies for quality of video!)
+	* [YouTube] (https://youtu.be/KCela5H4o_w)
 
 
 
