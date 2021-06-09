@@ -87,6 +87,6 @@ You will need at least 1 die, but it is recommended to use 8 dice.  *In lieu of 
 1. Hold the Line - Setup (Apologies for quality of video!)
 	* [YouTube] (https://youtu.be/KCela5H4o_w)
 2. Hold the Line - Gameplay Demo (Again, apologies for the quality of the video!)
-	* [YouTube] ()
+	* [YouTube] (https://youtu.be/3DglACer4G0)
 
 
